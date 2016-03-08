@@ -1,0 +1,6 @@
+c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.exe.config
+c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.exe
+c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.pdb
+c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.csprojResolveAssemblyReference.cache
+c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.exe
+c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.pdb
