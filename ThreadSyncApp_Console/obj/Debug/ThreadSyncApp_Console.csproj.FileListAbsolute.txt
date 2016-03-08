@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.exe.config
 c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.exe
 c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.pdb
@@ -7,3 +8,14 @@ c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\Thre
 D:\GIT Tutorials\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.exe.config
 D:\GIT Tutorials\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.exe
 D:\GIT Tutorials\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.pdb
+=======
+c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.exe.config
+c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.exe
+c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.pdb
+c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.csprojResolveAssemblyReference.cache
+c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.exe
+c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.pdb
+D:\GIT Tutorials\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.exe.config
+D:\GIT Tutorials\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.exe
+D:\GIT Tutorials\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.pdb
+>>>>>>> 51012b9a7ec3758c496de856f37e2c52b2eb2a5b

@@ -1,0 +1,41 @@
+[1mdiff --cc ThreadSyncApp_Console/Semaphores.cs[m
+[1mindex 81f8e64,700642d..0000000[m
+[1m--- a/ThreadSyncApp_Console/Semaphores.cs[m
+[1m+++ b/ThreadSyncApp_Console/Semaphores.cs[m
+[36m@@@ -114,7 -114,7 +114,7 @@@[m [mnamespace ThreadSyncApp_Console [m
+              }[m
+  [m
+          }[m
+[31m--[m
+[31m-         //hello worldssss[m
+[31m -        //hello world[m
+[32m++        [m
+[32m++        //hello worldssss[m
+      }[m
+  }[m
+[1mdiff --cc ThreadSyncApp_Console/obj/Debug/ThreadSyncApp_Console.csproj.FileListAbsolute.txt[m
+[1mindex eb0f2e3,c8bd603..0000000[m
+[1m--- a/ThreadSyncApp_Console/obj/Debug/ThreadSyncApp_Console.csproj.FileListAbsolute.txt[m
+[1m+++ b/ThreadSyncApp_Console/obj/Debug/ThreadSyncApp_Console.csproj.FileListAbsolute.txt[m
+[36m@@@ -1,9 -1,9 +1,21 @@@[m
+[32m++<<<<<<< HEAD[m
+[32m +c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.exe.config[m
+[32m +c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.exe[m
+[32m +c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.pdb[m
+[32m +c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.csprojResolveAssemblyReference.cache[m
+[32m +c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.exe[m
+[32m +c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.pdb[m
+[32m +D:\GIT Tutorials\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.exe.config[m
+[32m +D:\GIT Tutorials\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.exe[m
+[32m +D:\GIT Tutorials\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.pdb[m
+[32m++=======[m
+[32m+ c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.exe.config[m
+[32m+ c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.exe[m
+[32m+ c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.pdb[m
+[32m+ c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.csprojResolveAssemblyReference.cache[m
+[32m+ c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.exe[m
+[32m+ c:\users\vrosal\documents\visual studio 2015\Projects\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.pdb[m
+[32m+ D:\GIT Tutorials\ThreadSyncApp_Console\ThreadSyncApp_Console\bin\Debug\ThreadSyncApp_Console.exe.config[m
+[32m+ D:\GIT Tutorials\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.exe[m
+[32m+ D:\GIT Tutorials\ThreadSyncApp_Console\ThreadSyncApp_Console\obj\Debug\ThreadSyncApp_Console.pdb[m
+[32m++>>>>>>> 51012b9a7ec3758c496de856f37e2c52b2eb2a5b[m
